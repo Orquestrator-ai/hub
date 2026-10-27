@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://hub.orquestrator.ai
+Sitemap: https://hub.orquestrator.ai/sitemap.xml
